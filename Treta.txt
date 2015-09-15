@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 FAZENDO TRETA
 tretando
 testando a treta
+=======
+FAZENDO TRETA!!
+>>>>>>> 059c7ad310ef64995be37434c1573a4c724dcdb4
